@@ -41,3 +41,12 @@
   --odin-light-grey: #e5e7eb;
   --odin-light-blue: #3882f6;
 }
+
+/*Header*/
+
+.header {
+  background-color: var(--odin-navy-blue);
+  color: white;
+  box-sizing: border-box;
+  padding: 1em 8em 5em;
+}
