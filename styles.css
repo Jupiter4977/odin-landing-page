@@ -34,3 +34,10 @@
   padding: 0;
   list-style: none;
 }
+
+:root {
+  --odin-navy-blue: #1f2937;
+  --odin-white: #f9faf8;
+  --odin-light-grey: #e5e7eb;
+  --odin-light-blue: #3882f6;
+}
