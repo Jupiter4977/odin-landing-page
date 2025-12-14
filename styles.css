@@ -107,3 +107,11 @@
   margin-top: 0.5em;
   font-weight: 700;
 }
+
+.header__bottom-img-placeholder {
+  background-color: #6d737e;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  justify-content: center;
+}
