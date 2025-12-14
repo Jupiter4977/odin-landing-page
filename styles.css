@@ -127,3 +127,40 @@ button {
   flex-direction: column;
   align-items: center;
 }
+
+.main__section {
+  margin-top: 2em;
+  margin-bottom: 15em;
+}
+
+.information-title {
+  margin-bottom: 1em;
+  font-size: 36px;
+  font-weight: 900;
+  text-align: center;
+  color: var(--odin-navy-blue);
+}
+
+.content-flexbox {
+  display: flex;
+  gap: 3em;
+}
+
+.content {
+  width: 150px;
+  text-align: center;
+}
+
+.content__image-container {
+  width: 150px;
+  height: 150px;
+  box-sizing: border-box;
+  border: 4px solid var(--odin-light-blue);
+  border-radius: 12px;
+}
+
+.content__subtext {
+  line-height: 1.15;
+  margin-top: 0.5em;
+  color: #535b60;
+}
