@@ -185,3 +185,24 @@ button {
   font-size: 18px;
   text-align: right;
 }
+
+.main__call {
+  background-color: var(--odin-light-blue);
+  color: var(--odin-white);
+  box-sizing: border-box;
+  width: 1000px;
+  padding: 2em 6em;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.call-sign-up-button {
+  border: 1px solid var(--odin-white);
+  border-radius: 4px;
+  background-color: transparent;
+  color: white;
+  padding: 4px 20px;
+  font-weight: 700;
+}
