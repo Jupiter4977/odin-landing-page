@@ -79,3 +79,9 @@
   text-decoration: none;
   color: var(--odin-light-grey);
 }
+
+.header__bottom {
+  display: flex;
+  column-gap: 3em;
+}
+
