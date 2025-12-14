@@ -50,3 +50,32 @@
   box-sizing: border-box;
   padding: 1em 8em 5em;
 }
+
+.header__top {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5em;
+}
+
+.header-logo {
+  color: var(--odin-light-grey);
+}
+
+.header-logo {
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.header-nav__list {
+  display: flex;
+  column-gap: 2em;
+}
+
+.nav-link {
+  font-size: 18px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: var(--odin-light-grey);
+}
