@@ -42,6 +42,10 @@
   --odin-light-blue: #3882f6;
 }
 
+button {
+  cursor: pointer;
+}
+
 /*Header*/
 
 .header {
