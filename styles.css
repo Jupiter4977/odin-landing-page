@@ -164,3 +164,24 @@ button {
   margin-top: 0.5em;
   color: #535b60;
 }
+
+.main__quote {
+  width: 800px;
+  display: flex;
+  background-color: var(--odin-light-grey);
+  margin-bottom: 10em;
+}
+
+.main__quote-text {
+  font-size: 36px;
+  color: var(--odin-navy-blue);
+  font-weight: 300;
+  display: flex;
+  flex-direction: column;
+}
+
+.quote-text__span {
+  font-weight: 700;
+  font-size: 18px;
+  text-align: right;
+}
