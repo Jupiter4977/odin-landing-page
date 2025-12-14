@@ -1,0 +1,33 @@
+/*General*/
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('fonts/Roboto/static/Roboto-ExtraBold.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('fonts/Roboto/static/Roboto-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('fonts/Roboto/static/Roboto-Regular.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('fonts/Roboto/static/Roboto-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+
+* {
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
