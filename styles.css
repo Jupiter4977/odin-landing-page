@@ -206,3 +206,15 @@ button {
   padding: 4px 20px;
   font-weight: 700;
 }
+
+/*Footer*/
+
+.footer {
+  background-color: var(--odin-navy-blue);
+  color: var(--odin-white);
+  box-sizing: border-box;
+  padding: 1.5em 0;
+  display: flex;
+  justify-content: center;
+  margin-top: 5em;
+}
